@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Page Title</title>
+    <!-- Additional meta tags, stylesheets, or scripts can be included here -->
+</head>
+
+<body>
+    <!-- Content of your web page goes here -->
+    <header>
+        <h1>Your Website Title</h1>
+        <!-- Other header content goes here -->
+    </header>
+
+    <nav>
+        <!-- Navigation links or menu can be placed here -->
+    </nav>
+
+    <section>
+        <h2>Section Heading</h2>
+        <p>This is a paragraph within the section.</p>
+        <!-- Other content within the section goes here -->
+    </section>
+
+    <section>
+        <h2>Another Section</h2>
+        <p>Content of another section.</p>
+    </section>
+
+    <footer>
+        <!-- Footer content, such as copyright information or links, goes here -->
+    </footer>
+
+    <!-- Additional scripts or references can be included here -->
+</body>
+
+</html>
